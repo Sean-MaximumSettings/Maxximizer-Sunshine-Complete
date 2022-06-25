@@ -1,0 +1,26 @@
+# https://github.com/github/gitignore/blob/master/CMake.gitignore
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Makefile
+cmake_install.cmake
+install_manifest.txt
+*.cmake
+#Additions to https://github.com/github/gitignore/blob/master/CMake.gitignore
+Testing
+compile_commands.json
+.usages_clang
+
+*.crt
+*.key
+
+# executables
+http_examples
+https_examples
+io_test
+parse_test
+crypto_test
+status_code_test
+
+# Visual Studio 2015/2017 cache/options directory
+.vs

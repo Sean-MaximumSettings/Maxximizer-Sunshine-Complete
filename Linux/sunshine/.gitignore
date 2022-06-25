@@ -1,0 +1,24 @@
+build
+cmake-build*
+.DS_Store
+.vscode
+.vs
+*.swp
+*.kdev4
+
+.cache
+.idea
+
+# Extra FontAwesome files
+/assets/web/fonts/fontawesome-free-web/css/*.css
+!/assets/web/fonts/fontawesome-free-web/css/*min.css
+/assets/web/fonts/fontawesome-free-web/js/
+/assets/web/fonts/fontawesome-free-web/less/
+/assets/web/fonts/fontawesome-free-web/metadata/
+/assets/web/fonts/fontawesome-free-web/scss/
+/assets/web/fonts/fontawesome-free-web/sprites/
+/assets/web/fonts/fontawesome-free-web/svgs/
+
+# Translations
+*.mo
+*.pot
