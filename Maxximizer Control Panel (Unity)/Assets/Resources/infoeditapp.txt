@@ -1,0 +1,5 @@
+"APPLICATION NAME" is the display name shown on your Moonlight client.
+
+"APPLICATION PATH" is the path to the .exe file of your game/application.  You can also add arguments to the path.
+
+"DETACHED COMMAND" is a command call through Windows command prompt.  This can be used as an alternative to an appliction path.

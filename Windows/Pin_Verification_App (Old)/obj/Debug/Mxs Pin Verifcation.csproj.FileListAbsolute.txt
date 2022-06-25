@@ -1,0 +1,9 @@
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\Debug\Mxs Pin Verifcation.exe
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\Debug\Mxs Pin Verifcation.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs Pin Verifcation.csproj.AssemblyReference.cache
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs_Pin_Verifcation.Form1.resources
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs_Pin_Verifcation.Properties.Resources.resources
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs Pin Verifcation.csproj.GenerateResource.cache
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs Pin Verifcation.csproj.CoreCompileInputs.cache
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs Pin Verifcation.exe
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\Debug\Mxs Pin Verifcation.pdb

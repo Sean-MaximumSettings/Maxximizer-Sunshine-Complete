@@ -1,0 +1,7 @@
+Here, you can add or remove games and applications that will appear as shortcuts in your Moonlight library.
+
+
+The list shown is your current added applications.  You can modify or delete an application from the list by pressing the corresponding buttons next to the application name.
+
+
+To add a new application to the list, press the "ADD NEW" button and follow the steps on the next screen.  You may need to restart your instance to see changes on Moonlight.

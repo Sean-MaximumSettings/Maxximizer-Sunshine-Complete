@@ -1,0 +1,8 @@
+{
+    "env": {
+        "PATH": "$(PATH);C:\\Program Files (x86)\\Steam"
+    },
+    "apps": [
+        #
+    ]
+}

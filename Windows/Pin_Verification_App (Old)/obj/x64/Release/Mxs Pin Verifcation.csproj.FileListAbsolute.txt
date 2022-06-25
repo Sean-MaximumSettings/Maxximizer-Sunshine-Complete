@@ -1,0 +1,98 @@
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\Mxs Pin Verifcation.exe
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\Mxs Pin Verifcation.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs_Pin_Verifcation.Form1.resources
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs_Pin_Verifcation.Properties.Resources.resources
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs Pin Verifcation.csproj.GenerateResource.cache
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs Pin Verifcation.csproj.CoreCompileInputs.cache
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs Pin Verifcation.csproj.CopyComplete
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs Pin Verifcation.exe
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs Pin Verifcation.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.Core.Runtime.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.Core.Runtime.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.Core.Runtime.xml
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\chrome_100_percent.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\chrome_200_percent.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\chrome_elf.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\d3dcompiler_47.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\icudtl.dat
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\libcef.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\libEGL.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\libGLESv2.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\LICENSE.txt
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\am.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ar.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\bg.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\bn.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ca.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\cs.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\da.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\de.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\el.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\en-GB.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\en-US.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\es-419.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\es.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\et.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\fa.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\fi.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\fil.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\fr.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\gu.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\he.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\hi.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\hr.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\hu.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\id.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\it.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ja.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\kn.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ko.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\lt.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\lv.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ml.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\mr.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ms.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\nb.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\nl.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\pl.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\pt-BR.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\pt-PT.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ro.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ru.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\sk.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\sl.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\sr.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\sv.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\sw.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\ta.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\te.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\th.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\tr.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\uk.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\vi.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\zh-CN.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\locales\zh-TW.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\README.txt
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\resources.pak
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\snapshot_blob.bin
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\swiftshader\libEGL.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\swiftshader\libGLESv2.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\v8_context_snapshot.bin
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\vk_swiftshader.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\vk_swiftshader_icd.json
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\vulkan-1.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.BrowserSubprocess.Core.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.BrowserSubprocess.Core.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.BrowserSubprocess.exe
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.BrowserSubprocess.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\Mxs Pin Verifcation.exe.config
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.Core.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.WinForms.dll
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.xml
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.Core.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.Core.xml
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.WinForms.pdb
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\bin\x64\Release\CefSharp.WinForms.xml
+C:\Users\ZeoWo\source\repos\Mxs Pin Verifcation\Mxs Pin Verifcation\obj\x64\Release\Mxs Pin Verifcation.csproj.AssemblyReference.cache

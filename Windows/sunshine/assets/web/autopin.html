@@ -1,0 +1,42 @@
+<html>
+<p id="result">pin</p>
+</html>
+
+<script>
+function newFunction(){
+    //const params = new URLSearchParams(window.location.search);
+    //const s = params.get("pin");
+    //document.body.innerHTML = document.body.innerHTML.replace('pin', s);
+    var autop = GetURLParameter("pin");
+    //document.body.innerHTML = document.body.innerHTML.replace('pin', autop);
+    //return;
+    
+    //let pin = s;
+    let b = JSON.stringify({ pin: autop });
+    fetch("/api/pin", { method: "POST", body: b })
+      .then((response) => response.json())
+      .then((response) => {
+        if (response.status) {
+          document.getElementById("result").innerHTML = document.getElementById("result").innerHTML.replace('pin', "SUCCESS!");
+        } else {
+          document.getElementById("result").innerHTML = document.getElementById("result").innerHTML.replace('pin', "FAILED!");
+        }
+      });
+}
+    
+  function GetURLParameter(sParam){
+    var sPageURL = window.location.search.substring(1);
+    var sURLVariables = sPageURL.split('&');
+    for (var i = 0; i < sURLVariables.length; i++) 
+    {
+        var sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] == sParam) 
+        {
+            return sParameterName[1];
+        }
+    }
+ }  
+
+window.onload = newFunction();
+    
+</script>

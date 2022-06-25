@@ -1,0 +1,8 @@
+[Unit]
+Description=Sunshine Gamestream Server for Moonlight
+
+[Service]
+ExecStart=@SUNSHINE_EXECUTABLE_PATH@
+
+[Install]
+WantedBy=graphical-session.target
